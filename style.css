@@ -1,0 +1,23 @@
+.icon {
+  text-align: center;
+}
+
+.icon img {
+  margin-right: 20px;
+}
+
+.card {
+  border: 0px solid;
+  width: 300px;
+  margin: 45px auto;
+  text-align: center;
+  box-shadow: 0 0 10px;
+  padding-bottom: 10px;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+
+.card img {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
